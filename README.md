@@ -1,5 +1,5 @@
-# PocketRocketLiveries
-Copies of the default Pocket Rocket liveries are available here
+# Pocket Rocket Liveries
+
 © 2019 TorqueSim Aircraft Development
 These liveries are available to see how liveries are structured and for the availability of our customers.
 These are copyrighted works and are not to be used for commercial purposes. Modification and the free public
